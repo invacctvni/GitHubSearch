@@ -1,0 +1,22 @@
+.showSearchResultContainer {
+  //align-items: center;
+  //background-color: grey;
+  margin: 0 20vw;
+  //border: #61dafb 1px solid;
+  position: absolute;
+  text-align: center;
+  //border-color: #61dafb;
+  img {
+    height: 5vh;
+  }
+  div{
+    border: #61dafb 1px solid;
+    height: 1vh;
+  }
+  tr {
+    border: #61dafb 1px solid;
+  }
+  td {
+    border: darkred 1px solid;
+  }
+}

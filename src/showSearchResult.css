@@ -1,0 +1,20 @@
+.showSearchResultContainer {
+  margin: 0 20vw;
+  position: absolute;
+  text-align: center;
+}
+.showSearchResultContainer img {
+  height: 5vh;
+}
+.showSearchResultContainer div {
+  border: #61dafb 1px solid;
+  height: 1vh;
+}
+.showSearchResultContainer tr {
+  border: #61dafb 1px solid;
+}
+.showSearchResultContainer td {
+  border: darkred 1px solid;
+}
+
+/*# sourceMappingURL=showSearchResult.css.map */
