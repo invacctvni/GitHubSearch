@@ -1,3 +1,12 @@
+Hi, this is James, thanks for sharing the react questions. I really enjoy it. 
+I have spent around 2 hours and 10 minutes for the test (starting from 11am this morning) finishing everything so far. 
+Due to my citizenship test and multiple interview processes this week, I probably have to work on it around 2 hours or so).
+Thank you again so much for the questions, and I look forward to hearing from you. 
+
+
+
+
+
 Speer Technologies React Native assessment
 Overview
 The goal of this assessment is to build a basic React Native application which demonstrates common tasks such as fetching data, parsing model entities from JSON, UI, and navigation.
